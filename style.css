@@ -1,0 +1,9 @@
+.reg {
+  width: 30%;
+  height: 40vh;
+  background-color: blue;
+}
+
+body {
+  height: 100%;
+}
